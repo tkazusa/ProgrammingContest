@@ -8,6 +8,7 @@
 - 下記項目に当てはまるものは
   - 使い時
   - 考え方、などをメモ
+- [AtCoder problems](https://kenkoooo.com/atcoder/#/table/)
 
 ## 項目
 - 全探索・全列挙
@@ -35,6 +36,7 @@
 
 
 # 参考
+- [AtCoer 過去問精選10問](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
 - [リファレンス](https://cpprefjp.github.io/reference.html)
 
 
